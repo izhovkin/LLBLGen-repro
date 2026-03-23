@@ -2,3 +2,6 @@ test changes
 rebased changes
 more changes
 more changes 2
+
+another commit
+more changes -- minor fix
